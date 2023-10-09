@@ -1,0 +1,31 @@
+.navbar {
+  background-color: #898f39;
+}
+
+.banner {
+  background-color: #738240;
+  height: 30rem;
+}
+
+
+.carousel {
+  max-width: 95%;
+  margin-inline: auto;
+  padding-block: 1.875rem;
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  transform: translate(-20%, -50%);
+  text-align: start;
+}
+
+.carousel-caption p {
+  max-width: 30rem;
+}
+
+.carousel-indicators button {
+  background-color: red;
+}
